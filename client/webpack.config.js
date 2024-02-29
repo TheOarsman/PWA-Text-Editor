@@ -21,7 +21,7 @@ module.exports = () => {
       // Webpack plugin that generates html file and injects bundles
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "Can't Remember Right Now",
+        title: "JATE: Just Another Text Editor",
       }),
 
       // Injects custom service worker
@@ -34,9 +34,9 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: "Can't Remember Right Now",
-        short_name: "Can't Rememer",
-        description: "Remembering Something I forgot",
+        name: "JATE: Just Another Text Editor",
+        short_name: "JATE",
+        description: "A simple text editor app",
         background_color: "#225ca3",
         theme_color: "#225ca3",
         start_url: "./",
