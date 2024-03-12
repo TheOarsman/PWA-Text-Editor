@@ -1,14 +1,24 @@
-# PWA-Text-Editor
+# J.A.T.E - Just Another Text Editor (PWA)
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 [GitHub: will need repository address](website.com)<br>
 
-[YouTube: placeholder until video made](website.com)
-
 ## Description
 
-Add description
+J.A.T.E is a versatile text editor application designed to meet the needs of developers and users alike. Whether you're jotting down notes, writing code snippets, or drafting documents, J.A.T.E provides a seamless editing experience with or without an internet connection.
+
+**Features**<br>
+
+- **Offline Functionality**: J.A.T.E operates as a Progressive Web Application (PWA), allowing you to access and edit your content even when offline. Say goodbye to interruptions when connectivity is limited.
+
+- **Data Persistence**: Your content is securely stored using multiple data persistence techniques, including IndexedDB, ensuring redundancy and reliability. You can trust that your data will always be accessible when you need it.
+
+- **Intuitive Interface**: With its user-friendly interface and familiar features, J.A.T.E makes editing effortless. Write, edit, and save your content with ease, whether you're a seasoned developer or a casual user.
+
+**Deployment**<br>
+
+J.A.T.E is deployed using the Render platform, providing a reliable and scalable hosting solution for your text editing needs. With Render, you can deploy and manage your application with confidence, knowing that it's backed by robust infrastructure.
 
 ## Table of Contents
 
@@ -179,7 +189,7 @@ SOFTWARE.
 
 ## Contributing
 
-N/A
+I welcome contributions from the community to improve and enhance J.A.T.E. Whether it's fixing bugs, adding new features, or improving documentation, your contributions are valuable and appreciated. Join me in making J.A.T.E the best text editor it can be!
 
 ## Tests
 
@@ -190,6 +200,9 @@ None currently
 N/A
 
 ## Questions/Contact
+
+**Feedback**<br>
+I value your feedback! If you encounter any issues, have suggestions for improvement, or just want to share your experience with J.A.T.E, please don't hesitate to reach out. Your feedback helps me continue to refine and enhance the application for all users.
 
 **Developer:** Heinz Ulrich V
 
