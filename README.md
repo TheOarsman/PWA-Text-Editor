@@ -77,9 +77,65 @@ Add description
 
 ## Installation
 
+1. Clone the repository to your local machine: `git clone https://github.com/TheOarsman/PWA-Text-Editor.git`
+
+2. Navigate to the project directory: `cd PWA-Text-Editor`
+
+3. Install dependencies: `npm install`
+
+**Starting the Development Server**<br>
+To start the development server, run the following command: `npm run start:dev`
+
+This will concurrently start the server and the client application.
+
+**Building for Production**<br>
+To build the project for production, run: `npm run build`
+
+This command will create optimized production-ready bundles for both the server and client.
+
+**Running the Production Server**<br>
+To run the production server, execute: `npm start`
+
+**Accessing the Application**<br>
+Once the server is running, you can access the application by navigating to `http://localhost:3000` in your web browser.
+
 ## Development
 
+If you want to contribute to the project or make modifications, follow these steps to set up the development environment:
+
+- Fork repository on Github.
+- Check and verify **Prerequisites** in **[Installation](#installation)**, then follow steps 1 - 3.
+
+**Running Tests**<br>
+To execute tests, run the following command: `npm test`
+
+**Code Style**<br>
+The project follows a specific code style. Ensure your changes adhere to the style guidelines before submitting a pull request. You can also lint your code using ESLint by running: `npm run lint`
+
+**Development Server**<br>
+To start the development server with hot reloading, run: `npm run start:dev`
+
+This will concurrently start the server and the client application, allowing you to view changes in real-time.
+
+**Working with the Database**<br>
+The project utilizes IndexedDB for client-side data storage. Make sure to update the database methods (putDb and getDb) as needed when modifying data handling functionality.
+
+**Submitting Changes**<br>
+
+1. Commit your changes: `git commit -am "Add your message here"`
+2. Push to your forked repository: `git push origin master`
+3. Open a pull request on the original repository for review.
+
+**Feedback and Contributions**<br>
+Feedback, bug reports, and feature requests are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Your contributions will be greatly appreciated!
+
 ## Usage
+
+To run the project locally, follow steps in **[Installation](#installation)**
+
+**Prerequisites**
+
+- `Node.js` and `npm` installed on your machine.
 
 ## Technologies
 
