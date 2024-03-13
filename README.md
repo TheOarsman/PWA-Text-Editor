@@ -2,7 +2,9 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-[GitHub: will need repository address](website.com)<br>
+[J.A.T.E. - Just Another Text Editor](https://jate-just-another-text-editor-ql4f.onrender.com)<br>
+
+![JATE](assets/images/JATE_snip.png)
 
 ## Description
 
