@@ -29,7 +29,7 @@ J.A.T.E is deployed using the Render platform, providing a reliable and scalable
 - [Table of Contents](#tabel-of-contents)<br>
 - [User Story](#user-story)<br>
 - [Acceptance Criteria](#acceptance-criteria)<br>
-- [Installation](#instllation)<br>
+- [Installation](#installation)<br>
 - [Development](#development)<br>
 - [Usage](#usage)<br>
 - [Technologies](Technologies)
